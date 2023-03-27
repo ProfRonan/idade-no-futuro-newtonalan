@@ -13,4 +13,4 @@ n = input()
 
 ni = (an - aa) + id
 
-print(f"{n}, no ano de {an} você completará {ni} anos de idade.")
+print(f"{n}, no ano de {an} você completará {ni} anos")
