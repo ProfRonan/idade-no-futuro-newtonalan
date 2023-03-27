@@ -3,20 +3,13 @@
 #id = Idade
 #n = Nome
 
-aa = int(input("Digite o ano atual: "))
-print(" ")
+aa = int(input())
 
-id = int(input("Digite, agora, a idade que você completou ou irá completar esse ano. "))
-print(" ")
+id = int(input())
 
-an= int(input("Digite, dessa vez, o ano que você deseja saber sua idade: "))
-print(" ")
+an= int(input())
 
-n = input("Digite, por fim, o seu nome: ")
-print(" ")
-
-print("L o a d i n g . . .")
-print(" ")
+n = input()
 
 ni = (an - aa) + id
 
