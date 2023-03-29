@@ -9,8 +9,8 @@ n = input()
 ni = (an - aa) + id
 
 if an < aa:
-  print("Você não pode rejuvenecer.")
+  print(f"{n}, no ano de {an} você terá {ni}")
 elif ni == id:
-  print("Sua idade não mudou")
+  print(f"{n}, no ano de {an} você terá {id} anos")
 else:
   print(f"{n}, no ano de {an} você terá {ni} anos")
